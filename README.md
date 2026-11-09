@@ -9,3 +9,4 @@ My first tools:
 - Git
 - GitHub
 I am learning Linux and DevOps step by step.
+I am practicing Git branches.
