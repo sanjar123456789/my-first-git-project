@@ -16,3 +16,9 @@ I am learning DevOps step by step.
 - Practicing Git commands
 - Learning Git branches
 - Using GitHub
+
+## New Branch Practice
+
+I created my first Git feature branch.
+
+I am learning how Git branches work.
