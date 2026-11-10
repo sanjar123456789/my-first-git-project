@@ -2,11 +2,17 @@
 
 My name is Sanjar.
 
-I am learning DevOps.
+I am learning DevOps step by step.
 
-My first tools:
+## My first tools
+
 - Linux
 - Git
 - GitHub
-I am learning Linux and DevOps step by step.
-I am practicing Git branches.
+
+## My Learning Progress
+
+- Learning Linux administration
+- Practicing Git commands
+- Learning Git branches
+- Using GitHub
