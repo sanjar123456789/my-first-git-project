@@ -28,3 +28,9 @@ I am learning:
 - Git clone
 - Git pull
 - Git push
+
+## My Git Workflow Practice
+
+- I can clone a repository.
+- I can pull updates from GitHub.
+- I can commit and push changes.
